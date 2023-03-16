@@ -3,7 +3,7 @@
 //Author : Al Francis B. Paz
 //Email : afpaz@gbox.adnu.edu.ph
 //Exercise Number:1
-/Description :An arduino code that can be used to controlled the 2WD DC Motor with the Joystick
+//Description :An arduino code that can be used to controlled the 2WD DC Motor with the Joystick
 //Last modified: March 16, 2023
 //======================================================================================
 
