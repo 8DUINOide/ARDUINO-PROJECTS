@@ -81,9 +81,9 @@ Dependencies:
 	#include <LiquidCrystal_I2C.h>
 
 
-Contributing
-If you would like to contribute to any of these projects, you can do the following: 
-Forking the repository, Creating an issue, Submitting a pull request,or Contributing to documentation.
+Contributing:
+	If you would like to contribute to any of these projects, you can do the following: 
+	Forking the repository, Creating an issue, Submitting a pull request,or Contributing to documentation.
 
-Contact
-If you have any questions or concerns about this repository, please contact me to my gmail account: afpaz@gbox.adnu.edu.ph
+Contact:
+	If you have any questions or concerns about this repository, please contact me to my gmail account: afpaz@gbox.adnu.edu.ph
