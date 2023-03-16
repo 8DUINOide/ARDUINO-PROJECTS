@@ -1,5 +1,5 @@
 Arduino Projects
-These are my Arduino Projects that you can use or modified for us to help each other. This repository contains multiple Arduino projects, each with its own folder and set of files. Below is a brief description of each project:
+These are my Arduino Projects that you can use or modify, for us to help each other. This repository contains multiple Arduino projects, each with its own folder and set of files. Below is a brief description of each project:
 
 Project 1:
 	An arduino code that can be used to controlled the 2WD DC Motor with the Joystick
