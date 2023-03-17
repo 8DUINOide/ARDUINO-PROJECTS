@@ -90,7 +90,17 @@ Files:
 Dependencies:
 	#include <Servo.h>          
 	#include <NewPing.h>        
+	
+Project 9:
+	This project is a 1 segment LED Display, that outputs the numbers from 1 to 9
 
+Files:
+	PAZ_Arduino-Based 1 segment LED Display.ino
+	Schematic Diagram for 1 segment LED Display
+
+Dependencies:
+	No libraries included
+	
 Contributing:
 	If you would like to contribute to any of these projects, you can do the following: 
 	Forking the repository, Creating an issue, Submitting a pull request,or Contributing to documentation.
