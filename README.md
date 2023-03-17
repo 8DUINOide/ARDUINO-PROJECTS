@@ -101,6 +101,16 @@ Files:
 Dependencies:
 	No libraries included
 	
+Project 10:
+	This project is a 4 segment LED Display, that outputs the numbers from 0 to 9
+
+Files:
+	PAZ_Arduino-Based 4 segment LED Display.ino
+	Schematic Diagram for 4 segment LED Display
+
+Dependencies:
+	#include <SevSeg.h>
+	
 Contributing:
 	If you would like to contribute to any of these projects, you can do the following: 
 	Forking the repository, Creating an issue, Submitting a pull request,or Contributing to documentation.
