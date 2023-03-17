@@ -79,7 +79,17 @@ Files:
 Dependencies:
 	#include <Wire.h> 
 	#include <LiquidCrystal_I2C.h>
+	
+Project 8:
+	This project is a 2WD Obstacle Avoiding Robot. This project used Ultrasonic Sensor that detects an object and will automatically stop, when the distance from 	      the object is nearer.
 
+Files:
+	PAZ_Arduino-Based 2WD Obstacle Avoiding Robot.ino
+	Schematic Diagram for 2WD Obstacle Avoidiing Robot
+
+Dependencies:
+	#include <Servo.h>          
+	#include <NewPing.h>        
 
 Contributing:
 	If you would like to contribute to any of these projects, you can do the following: 
