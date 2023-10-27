@@ -1,9 +1,3 @@
-#include <NewPing.h>
-#include <Wire.h> 
-#include <LiquidCrystal_I2C.h>
-
-LiquidCrystal_I2C lcd(0x27, 16, 2);
-
 //======================================================================================
 //Filename : PAZ_Bluetooth Controlled Obstacle Avoiding Car.ino
 //Author : Al Francis B. Paz
@@ -12,6 +6,13 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 //Description : This project is a 4WD Bluetooth Controlled Obstacle Avoiding Car. This project used Ultrasonic Sensor that detects an object and will automatically stop, when the distance from the object is nearer.
 //Last modified: October 20, 2023
 //======================================================================================
+
+#include <NewPing.h>
+#include <Wire.h> 
+#include <LiquidCrystal_I2C.h>
+
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
 char t;
 int frontDistance1 = -1;
 int frontDistance2 = -1;
